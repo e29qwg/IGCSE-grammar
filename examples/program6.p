@@ -1,0 +1,6 @@
+DECLARE Counter : INTEGER
+DECLARE TotalToPay : REAL
+DECLARE GameOver : BOOLEAN
+
+CONSTANT HourlyRate <- 6.50
+CONSTANT DefaultText <- "N/A"
